@@ -6,11 +6,11 @@
 
 《还潮-雾镇夜行》是一款三维生存动作游戏。带着法器穿过街巷，跃上屋顶，在追来的异物之间寻找出路；一边拾取灵萤成长，一边迎战雾镇里的首领。
 
-**[立即下载 Windows 版](https://github.com/sparklecatta-lang/Huanchao-Nightwalk/releases/latest)** · **[查看本次更新](https://github.com/sparklecatta-lang/Huanchao-Nightwalk/releases/tag/v0.40.0)**
+**[立即下载 Windows 版](https://github.com/sparklecatta-lang/Huanchao-Nightwalk/releases/latest)** · **[查看本次更新](https://github.com/sparklecatta-lang/Huanchao-Nightwalk/releases/tag/v0.41.0)**
 
 ## 开始夜行
 
-1. 打开上方下载页，下载 `Huanchao-Nightwalk-v0.40.0-Windows-x64.zip`。
+1. 打开上方下载页，下载 `Huanchao-Nightwalk-v0.41.0-Windows-x64.zip`。
 2. 将压缩包完整解压到电脑上的文件夹。
 3. 打开解压后的文件夹，双击 `HuanchaoReborn.exe` 开始游戏。
 
@@ -33,7 +33,18 @@
 
 *配图使用游戏已有法器图集；顶部为基于游戏标题插画制作的封面。*
 
-## 本次更新 · 0.40
+## 本次更新 · 0.41
+
+| 内容 | 变化 |
+| --- | --- |
+| 判官笔加粗 | 加宽笔迹并补齐转角连接，保留笔刷纹理、收尖尾部与贴地裁切 |
+| 主角音效优先 | 冲刺、跳跃、受击、脚步、游泳、落地、治疗、主动近战与弹反使用最高播放优先级 |
+| 密集战斗反馈 | 敌人和法器音效不能挤掉主角音效，也不会因为数量增加而压低主角反馈音量 |
+| 连续动作 | 同类声音达到层数上限时重启旧尾音，让新动作的声音及时响起 |
+| 水中冲刺 | 补齐成功冲刺时的音效 |
+| 音量设置 | 保留音效滑块、静音和暂停控制，背景音乐音量保持稳定 |
+
+## 上一版更新 · 0.40
 
 | 内容 | 变化 |
 | --- | --- |
@@ -48,4 +59,4 @@
 
 欢迎在[问题反馈](https://github.com/sparklecatta-lang/Huanchao-Nightwalk/issues)中描述遇到的情况，并注明游戏版本和复现步骤。
 
-本仓库提供 Windows 可玩程序、更新说明与展示配图。当前发布版本为 **v0.40.0**。
+本仓库提供 Windows 可玩程序、更新说明与展示配图。当前发布版本为 **v0.41.0**。

@@ -1,11 +1,51 @@
-# 还潮 · Windows 下载
+# 还潮-雾镇夜行
 
-黄猫雾镇生存动作游戏。本仓库用于发布 Windows 可玩程序。
+![还潮-雾镇夜行：黄猫与木刻雾镇封面](docs/images/nightwalk-cover.png)
 
-**[下载最新 Windows 版](https://github.com/sparklecatta-lang/huanchao-megabonk/releases/latest)**
+**做一只夜行的黄猫，在雾镇里活下去。**
 
-在 Release 的 Assets 中下载名称以 `Windows-x64.zip` 结尾的压缩包，完整解压后运行文件夹内的 `HuanchaoReborn.exe`。
+《还潮-雾镇夜行》是一款三维生存动作游戏。带着法器穿过街巷，跃上屋顶，在追来的异物之间寻找出路；一边拾取灵萤成长，一边迎战雾镇里的首领。
 
-请保留 exe 同目录的 `HuanchaoReborn_Data`、DLL 和其他运行依赖。程序包无需安装 Unity 编辑器。
+**[立即下载 Windows 版](https://github.com/sparklecatta-lang/Huanchao-Nightwalk/releases/latest)** · **[查看本次更新](https://github.com/sparklecatta-lang/Huanchao-Nightwalk/releases/tag/v0.40.0)**
 
-当前版本为 **v0.40.0**。更新内容见 [Release 说明](https://github.com/sparklecatta-lang/huanchao-megabonk/releases/tag/v0.40.0)。
+## 开始夜行
+
+1. 打开上方下载页，下载 `Huanchao-Nightwalk-v0.40.0-Windows-x64.zip`。
+2. 将压缩包完整解压到电脑上的文件夹。
+3. 打开解压后的文件夹，双击 `HuanchaoReborn.exe` 开始游戏。
+
+支持 Windows 64 位，无需安装 Unity 编辑器。请保留程序旁的 `HuanchaoReborn_Data` 文件夹及其他运行文件。
+
+## 雾镇里有什么
+
+- **移动与反击**：用跳跃、冲刺和主动攻击穿过包围，在合适的时机把敌方投射物弹回去。
+- **法器与成长**：16 种自动攻击武器，最多同时携带 4 件；升级时三选一，组合自己的战斗方式。
+- **街巷与高处**：探索街道、屋顶和山地，寻找宝箱、补给与能够主动召唤的首领。
+- **十分钟后的挑战**：夜行满十分钟，山君现身；击败全部首领，结束这一局夜行。
+
+## 随身法器
+
+<p align="center">
+  <img src="docs/images/weapons.png" width="620" alt="游戏中的十六种法器图标" />
+</p>
+
+飞符、月轮、桃木剑、镇魂铃、朱砂葫芦、引魂灯、棺钉、无字经、照骨镜、陨铁锤、镇风扇、油纸伞、铜钱、判官笔、饕餮牙、五雷令。
+
+*配图使用游戏已有法器图集；顶部为基于游戏标题插画制作的封面。*
+
+## 本次更新 · 0.40
+
+| 内容 | 变化 |
+| --- | --- |
+| 三名人形首领 | 调整镇街石将、巡更铜傀、纸嫁伞妖的行走动作 |
+| 镇街石将 | 双拳触地后沿直线释放六连大型岩刺 |
+| 巡更铜傀 | 移除手持武器，双手拍头钟；音波扩张、收缩各判定一次 |
+| 纸嫁伞妖 | 投出追踪雨伞，可在接近时冲刺躲避或攻击弹回 |
+| 弹反反馈 | 加入清脆的弹反音效，近战打击音效保持原样 |
+| 精英敌人 | 普通刷怪中穿插精英，体型 2 倍，血量、攻击与奖励 3 倍 |
+
+## 遇到问题
+
+欢迎在[问题反馈](https://github.com/sparklecatta-lang/Huanchao-Nightwalk/issues)中描述遇到的情况，并注明游戏版本和复现步骤。
+
+本仓库提供 Windows 可玩程序、更新说明与展示配图。当前发布版本为 **v0.40.0**。
